@@ -1,6 +1,9 @@
 ### Library Management System
 
 
+Note: For details about the specifications of this assignment
+visit the Wiki
+
 #### Organization of the Packages
 
 ##### librarymanager.controllers
